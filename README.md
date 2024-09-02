@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="soufilearn logo" width="200px" />
+  <img src="./4096px-Code_for_chage.png" alt="code logo" />
 </div>
 
 <div align='center'>
