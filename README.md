@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="./logo.png" alt="soufilearn logo" width="200px" />
+</div>
 
-<!--
-**reza-sheydaee/reza-sheydaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+    <h1>Reza Sheydaee</h1>
+    <h4>A Computer Programmer</h4>
+</div>
+ 
+## Skills
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=linux,bash,git,c,cs,python,kotlin,js" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+
+<a href="https://instagram.com/sheydaee_reza">
+  <img src="https://skillicons.dev/icons?i=instagram"/>
+<a/>
